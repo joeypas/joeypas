@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m a computer science student at UVM with a passion for low-level systems programming, networking, and hands-on engineering. I love figuring out how things work—whether that’s through software, hardware, or mechanics.
+I’m a computer science student at UVM with a passion for low-level systems programming, networking, and hands on engineering. I love figuring out how things work, whether that’s through software, hardware, or mechanics.
 
 - 🔭 I’m currently working on
   - BarTop: A DNS library written in zig with serialization/deserialization from the wire, asynchronous         resolvers, crypto tools, and more!
