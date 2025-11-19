@@ -18,7 +18,7 @@ I’m a computer science student at UVM with a passion for low-level systems pro
 
 - 🔭 I’m currently working on
   - BarTop: A DNS library written in zig with serialization/deserialization from the wire, asynchronous         resolvers, crypto tools, and more!
-  - HummingBird: An encrypted chat app written in go
+  - Monparser: A monadic parser combinator library written in OCaml, And a toy interpreter for a ML style language
 - 💬 Ask me about
   - Mechanic work on my 1987 Alfa Romeo Spider.
   - Building and repairing stereo/audio equipment.
